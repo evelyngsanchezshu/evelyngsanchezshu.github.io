@@ -1,9 +1,47 @@
-<html>
-
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Your Name — Home</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
 <body>
-  <h1>Evelyn G. Sanchez-Shu</h1>
-  <p>Welcome to my website!</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
-</body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title">Your Name</h1>
+      <nav class="nav">
+        <a class="active" href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="education.html">Education</a>
+        <a href="work.html">Work</a>
+        <a href="publications.html">Publications</a>
+      </nav>
+    </div>
+  </header>
 
+  <main class="container">
+    <h2>Welcome</h2>
+    <p>Short intro. Add a 1–2 sentence summary of what you do.</p>
+
+    <section class="card">
+      <h3>Quick links</h3>
+      <ul>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="work.html">Work experience</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>© <span id="year"></span> Your Name</small>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
 </html>
+
