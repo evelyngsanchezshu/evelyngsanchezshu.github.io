@@ -7,3 +7,11 @@ body { margin: 0; line-height: 1.55; }
 .nav a.active { font-weight: 700; text-decoration: underline; }
 .card { border: 1px solid #e6e6e6; border-radius: 12px; padding: 16px; margin-top: 16px; }
 .site-footer { border-top: 1px solid #e6e6e6; margin-top: 24px; }
+.headshot {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  float: right;
+  margin: 0 0 16px 24px;
+}
