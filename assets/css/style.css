@@ -5,12 +5,12 @@ body { margin: 0; line-height: 1.55; }
 .site-title { margin: 0 0 12px 0; font-size: 28px; }
 .nav a { margin-right: 14px; text-decoration: none; }
 .nav a.active { font-weight: 700; text-decoration: underline; }
-.card { border: 1px solid #e6e6e6; border-radius: 12px; padding: 16px; margin-top: 16px; }
+.card { border: 1px solid #e6e6e6; border-radius: 6px; padding: 16px; margin-top: 16px; }
 .site-footer { border-top: 1px solid #e6e6e6; margin-top: 24px; }
 .headshot { width: 150px; height: 150px; object-fit: cover; border-radius: 4px; flex-shrink: 0; }
 .academic-content h2 { margin-top: 0; margin-bottom: 4px; font-size: 26px; }
 .academic-content h3 { margin-top: 0; margin-bottom: 4px; font-size: 18px; }
-.education-item { margin-bottom: 10px; }
+.education-item { margin-bottom: 4px; }
 .education-item h3 { margin-bottom: 4px; font-size: 18px; }
 .education-meta { margin-top: 0; margin-bottom: 4px; font-size: 14px; color: #555; }
 .subtitle { margin-top: 0; margin-bottom: 12px; color: #555; font-size: 15px; }
