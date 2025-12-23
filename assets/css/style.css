@@ -27,7 +27,7 @@ body {
 .hanging,
 .pubs-list li,
 .contact-links { font-size: var(--font-size-base); 
-                margin: 0px 16px 0px 8px; }
+                margin: 0px 16px 0px 0px; }
 
 .academic-content { padding-right: 8px; padding-bottom: 0px; }
 .academic-content h2 { font-size: 28px; }
