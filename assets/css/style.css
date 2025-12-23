@@ -14,7 +14,7 @@ body {
 }
 .container { display: flex; align-items: flex-start; column-gap: 16px; row-gap: 2px; padding: 2px 16px 2px 8px;}
 .site-header { border-bottom: 1px solid var(--border); } 
-.site-title { margin: 0px 0px 12px 0px; font-size: 28px; }
+.site-title { font-size: 28px; }
 .nav { display: flex; gap: 14px; align-items: center; }
 .nav a { text-decoration: none; }
 .nav a.active { font-weight: 700; text-decoration: underline; align-self: center; }
