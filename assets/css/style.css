@@ -14,8 +14,8 @@ body {
 }
 .container { display: flex; align-items: flex-start; column-gap: 16px; row-gap: 2px; padding: 2px 16px 2px 8px;}
 .site-header { border-bottom: 1px solid var(--border); } 
-.site-title { font-size: 28px; }
-.nav { display: flex; gap: 14px; align-items: center; }
+.site-title { font-size: 28px; margin: 2px 0px; }
+.nav { display: flex; gap: 14px; align-self: center; }
 .nav a { text-decoration: none; }
 .nav a.active { font-weight: 700; text-decoration: underline; align-self: center; }
 .card { border: 1px solid var(--border); border-radius: 6px; padding: 16px; margin-top: 16px; }
