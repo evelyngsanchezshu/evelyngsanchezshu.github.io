@@ -31,14 +31,14 @@ body {
                 margin: 0px; }
 
 .academic-content { padding: 0px 20px 2px 0px; }
-.academic-content p { margin: 0px; }
+.academic-content p { margin: 1px 0px 8px 0px; }
 .academic-content h2 { font-size: 28px; margin: 0px; }
-.academic-content h3 { font-size: 20px; margin: 2px 0px 0px 0px; }
+.academic-content h3 { font-size: 20px; margin: 4px 0px 0px 0px; }
 .education-item { padding: 0px 0px 2px 0px; }
-.education-item p { margin: 0px; }
-.education-item h3 { font-size: 20px; margin: 2px 0px 0px 0px; }
+.education-item p { margin: 0px 0px 4px 0px; }
+.education-item h3 { font-size: 20px; margin: 4px 0px 0px 0px; }
 .education-meta { font-size: 14px; color: var(--muted); margin: 0px; }
-.subtitle { color: var(--muted); font-size: 15px; margin: 0px; }
+.subtitle { color: var(--muted); font-size: 15px; margin: 4px 0px 0px 0px; }
 .contact-links { font-size: 15px; padding: 0px 16px 0px 0px; }
 .xp-item { margin: 0px 0px 2px 0px; }
 .xp-item h3 { font-size: 20px; margin: 2px 0px 0px 0px; }
