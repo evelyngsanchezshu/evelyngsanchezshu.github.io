@@ -8,7 +8,7 @@ body { margin: 0; line-height: 1.55; }
 .card { border: 1px solid #e6e6e6; border-radius: 6px; padding: 16px; margin-top: 16px; }
 .site-footer { border-top: 1px solid #e6e6e6; margin-top: 24px; }
 .headshot { width: 150px; height: 150px; object-fit: cover; border-radius: 4px; flex-shrink: 0; }
-.academic-content { margin-top: 0; margin-bottom: 2px; padding-right: 16px; font-size: 16px; }
+.academic-content { margin-top: 0; margin-bottom: 2px; padding-right: 16px; font-size: 18px; }
 .academic-content h2 { margin-top: 0; margin-bottom: 2px; font-size: 28px; }
 .academic-content h3 { margin-top: 0; margin-bottom: 2px; font-size: 20px; }
 .education-item { margin-bottom: 2px; }
