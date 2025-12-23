@@ -31,16 +31,16 @@ body {
                 margin: 0px; }
 
 .academic-content { padding: 0px 20px 2px 0px; }
-.academic-content h2 { font-size: 28px; }
-.academic-content h3 { font-size: 20px; }
-.education-item { padding-bottom: 2px; }
-.education-item h3 { font-size: 20px; }
-.education-meta { font-size: 14px; color: var(--muted); }
-.subtitle { color: var(--muted); font-size: 15px; }
+.academic-content h2 { font-size: 28px; margin: 0px; }
+.academic-content h3 { font-size: 20px; margin: 0px; }
+.education-item { padding: 0px 0px 2px 0px; }
+.education-item h3 { font-size: 20px; margin: 0px; }
+.education-meta { font-size: 14px; color: var(--muted); margin: 0px; }
+.subtitle { color: var(--muted); font-size: 15px; margin: 0px; }
 .contact-links { font-size: 15px; padding: 0px 16px 0px 0px; }
-.xp-item { margin-bottom: 2px; }
-.xp-item h3 { font-size: 20px; }
-.xp-meta { font-size: 14px; color: var(--muted); }
-.xp-bullets { padding: 0px 16px 0px 18px; }
+.xp-item { margin: 0px 0px 2px 0px; }
+.xp-item h3 { font-size: 20px; margin: 0px; }
+.xp-meta { font-size: 14px; color: var(--muted); margin: 0px; }
+.xp-bullets { padding: 0px 16px 0px 18px; margin: 0px; }
 .hanging { padding-left: 2em; text-indent: -2em; margin: 0px 16px 0px 0px; }
 .pubs-list li { padding-left: 2em; text-indent: -2em; margin: 0px 16px 0px 0px; }
