@@ -15,7 +15,7 @@ body {
 .container { display: flex; align-items: flex-start; column-gap: 16px; row-gap: 2px; padding: 2px 16px 2px 8px;}
 .site-header { border-bottom: 1px solid var(--border); } 
 .site-title { font-size: 28px; margin: 2px 0px; }
-.nav { display: flex; gap: 14px; align-self: center; }
+.nav { display: flex; gap: 14px; margin: 2px 0px 0px 0px; align-self: center; }
 .nav a { text-decoration: none; }
 .nav a.active { font-weight: 700; text-decoration: underline; align-self: center; }
 .card { border: 1px solid var(--border); border-radius: 6px; padding: 16px; margin-top: 16px; }
@@ -32,14 +32,14 @@ body {
 
 .academic-content { padding: 0px 20px 2px 0px; }
 .academic-content h2 { font-size: 28px; margin: 0px; }
-.academic-content h3 { font-size: 20px; margin: 0px; }
+.academic-content h3 { font-size: 20px; margin: 2px 0px 0px 0px; }
 .education-item { padding: 0px 0px 2px 0px; }
-.education-item h3 { font-size: 20px; margin: 0px; }
+.education-item h3 { font-size: 20px; margin: 2px 0px 0px 0px; }
 .education-meta { font-size: 14px; color: var(--muted); margin: 0px; }
 .subtitle { color: var(--muted); font-size: 15px; margin: 0px; }
 .contact-links { font-size: 15px; padding: 0px 16px 0px 0px; }
 .xp-item { margin: 0px 0px 2px 0px; }
-.xp-item h3 { font-size: 20px; margin: 0px; }
+.xp-item h3 { font-size: 20px; margin: 2px 0px 0px 0px; }
 .xp-meta { font-size: 14px; color: var(--muted); margin: 0px; }
 .xp-bullets { padding: 0px 16px 0px 18px; margin: 0px; }
 .hanging { padding-left: 2em; text-indent: -2em; margin: 0px 16px 0px 0px; }
