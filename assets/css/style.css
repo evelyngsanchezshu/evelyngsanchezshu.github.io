@@ -7,7 +7,7 @@
   --gap: 18px;
 }
 body {
-  margin: 0;
+  margin: 0px;
   line-height: var(--line-height);
   font-family: var(--font-family);
   font-size: var(--font-size-base); /* base size for most paragraph/text content */
@@ -27,7 +27,8 @@ body {
 .xp-bullets,
 .hanging,
 .pubs-list li,
-.contact-links { font-size: var(--font-size-base); }
+.contact-links { font-size: var(--font-size-base); 
+                margin: 0px; }
 
 .academic-content { padding: 0px 20px 2px 0px; }
 .academic-content h2 { font-size: 28px; }
