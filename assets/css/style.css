@@ -12,7 +12,7 @@ body {
   font-family: var(--font-family);
   font-size: var(--font-size-base); /* base size for most paragraph/text content */
 }
-.container { display: flex; align-items: flex-start; gap: var(--gap); padding: 2px 16px 2px 8px;}
+.container { display: flex; align-items: flex-start; column-gap: 16px; row-gap: 2px; padding: 2px 16px 2px 8px;}
 .site-header { border-bottom: 1px solid var(--border); } 
 .site-title { margin: 0px 0px 12px 0px; font-size: 28px; }
 .nav a { margin: 18px 14px; text-decoration: none; }
