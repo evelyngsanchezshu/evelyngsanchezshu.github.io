@@ -16,8 +16,8 @@ body { margin: 0; line-height: 1.55; }
 .subtitle { margin-top: 0; margin-bottom: 12px; color: #555; font-size: 15px; }
 .contact-links { font-size: 14px; margin-bottom: 16px; }
 .xp-item { margin-bottom: 22px; }
-.xp-item h3 { margin: 0 0 6px 0; font-size: 18px; }
-.xp-meta { margin: 0 0 8px 0; font-size: 14px; color: #555; }
-.xp-bullets { margin: 0 0 10px 18px; }
+.xp-item h3 { margin: 0 8 6px 0; font-size: 18px; }
+.xp-meta { margin: 0 8 8px 0; font-size: 14px; color: #555; }
+.xp-bullets { margin: 0 8 10px 18px; }
 .hanging { padding-left: 2em; text-indent: -2em; }
 .pubs-list li { padding-left: 2em; text-indent: -2em; }
