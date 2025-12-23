@@ -31,7 +31,7 @@ body {
                 margin: 0px; }
 
 .academic-content { padding: 0px 20px 2px 0px; }
-.academic-content { margin: 0px; }
+.academic-content p { margin: 0px; }
 .academic-content h2 { font-size: 28px; margin: 0px; }
 .academic-content h3 { font-size: 20px; margin: 2px 0px 0px 0px; }
 .education-item { padding: 0px 0px 2px 0px; }
