@@ -12,10 +12,10 @@ body {
   font-family: var(--font-family);
   font-size: var(--font-size-base); /* base size for most paragraph/text content */
 }
-.container { display: flex; align-items: flex-start; gap: var(--gap); margin: 2px 16px 2px 8px;}
+.container { display: flex; align-items: flex-start; gap: var(--gap)}
 .site-header { border-bottom: 1px solid var(--border); }
 .site-title { margin: 0px 0px 12px 0px; font-size: 28px; }
-.nav a { margin-right: 14px; padding: 12px 6px 12px 6px; text-decoration: none; }
+.nav a { margin: 22px 14px 12px 6px; text-decoration: none; }
 .nav a.active { font-weight: 700; text-decoration: underline; }
 .card { border: 1px solid var(--border); border-radius: 6px; padding: 16px; margin-top: 16px; }
 .site-footer { border-top: 1px solid var(--border); margin-top: 24px; }
