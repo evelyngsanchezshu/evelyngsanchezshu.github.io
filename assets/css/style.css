@@ -4,7 +4,7 @@
   --line-height: 1.55;
   --muted: #555;
   --border: #e6e6e6;
-  --gap: 22px;
+  --gap: 6px;
 }
 body {
   margin: 0;
@@ -19,7 +19,7 @@ body {
 .nav a.active { font-weight: 700; text-decoration: underline; }
 .card { border: 1px solid var(--border); border-radius: 6px; padding: 16px; margin-top: 16px; }
 .site-footer { border-top: 1px solid var(--border); margin-top: 24px; }
-.headshot { width: 150px; height: 150px; object-fit: cover; border-radius: 4px; flex-shrink: 0; }
+.headshot { width: 150px; height: 150px; object-fit: cover; border-radius: 6px; margin: 2px 16px 2px 16px; flex-shrink: 0; }
 
 .academic-content, /* grouped rule for base font size */
 .education-item,
@@ -27,9 +27,9 @@ body {
 .hanging,
 .pubs-list li,
 .contact-links { font-size: var(--font-size-base); 
-               margin: 0px 16px 2px 8px; }
+               margin: 0px 16px 0px 8px; }
 
-.academic-content { padding-right: 8px; padding-bottom: 6px; }
+.academic-content { padding-right: 8px; padding-bottom: 0px; }
 .academic-content h2 { font-size: 28px; }
 .academic-content h3 { font-size: 20px; }
 .education-item { padding-bottom: 2px; }
@@ -37,9 +37,9 @@ body {
 .education-meta { font-size: 14px; color: var(--muted); }
 .subtitle { color: var(--muted); font-size: 15px; }
 .contact-links { font-size: 15px; }
-.xp-item { margin-bottom: 22px; }
+.xp-item { margin-bottom: 2px; }
 .xp-item h3 { font-size: 20px; }
 .xp-meta { font-size: 14px; color: var(--muted); }
-.xp-bullets { margin: 0px 16px 6px 18px; }
+.xp-bullets { margin: 0px 16px 2px 18px; }
 .hanging { padding-left: 2em; text-indent: -2em; }
 .pubs-list li { padding-left: 2em; text-indent: -2em; }
