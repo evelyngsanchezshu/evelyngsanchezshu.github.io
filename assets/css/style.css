@@ -36,13 +36,13 @@ body {
 .academic-content h3 { font-size: 20px; margin: 4px 0px 0px 0px; }
 .education-item { padding: 0px 0px 2px 0px; }
 .education-item p { margin: 2px 0px 4px 0px; }
-.education-item h3 { font-size: 20px; margin: 4px 0px 0px 0px; }
+.education-item h3 { font-size: 20px; margin: 6px 0px 0px 0px; }
 .education-meta { font-size: 14px; color: var(--muted); margin: 0px; }
 .subtitle { color: var(--muted); font-size: 15px; margin: 4px 0px 0px 0px; }
 .contact-links { font-size: 15px; padding: 0px 16px 0px 0px; }
 .xp-item { margin: 0px 0px 2px 0px; }
-.xp-item h3 { font-size: 20px; margin: 2px 0px 0px 0px; }
-.xp-meta { font-size: 14px; color: var(--muted); margin: 6px 0px 6px 0px; }
+.xp-item h3 { font-size: 20px; margin: 6px 0px 0px 0px; }
+.xp-meta { font-size: 14px; color: var(--muted); margin: 6px 0px; }
 .xp-bullets { padding: 0px 16px 8px 18px; margin: 0px; }
 .hanging { padding-left: 2em; text-indent: -2em; margin: 0px 16px 0px 0px; }
 .pubs-list li { padding-left: 2em; text-indent: -2em; margin: 0px 16px 0px 0px; }
